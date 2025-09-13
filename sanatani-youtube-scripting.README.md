@@ -115,7 +115,6 @@ Goal: Maximize reach + retention while staying kid-safe.
 2. **Paste your authentic source** (sloka, passage, keerthana, or concept).  
 3. **Run the matching prompt** from the library above.  
 4. **Review + refine** the output with your creative inputs.  
-5. Rahul uploads while you handle content scripting + direction.  
 
 ---
 
